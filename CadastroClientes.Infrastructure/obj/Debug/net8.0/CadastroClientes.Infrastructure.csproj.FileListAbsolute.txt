@@ -1,0 +1,34 @@
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.deps.json
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.runtimeconfig.json
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.pdb
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Domain.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Domain.pdb
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.AssemblyInfo.cs
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\Cadastro.28A1E242.Up2Date
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\refint\CadastroClientes.Infrastructure.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.pdb
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.genruntimeconfig.cache
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Infrastructure\obj\Debug\net8.0\ref\CadastroClientes.Infrastructure.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.deps.json
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Infrastructure.pdb
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Domain.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\bin\Debug\net8.0\CadastroClientes.Domain.pdb
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\Cadastro.28A1E242.Up2Date
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\refint\CadastroClientes.Infrastructure.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.pdb
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\CadastroClientes.Infrastructure.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Infrastructure\obj\Debug\net8.0\ref\CadastroClientes.Infrastructure.dll

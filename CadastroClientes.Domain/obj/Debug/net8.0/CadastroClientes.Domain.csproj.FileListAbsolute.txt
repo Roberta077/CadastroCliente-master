@@ -1,0 +1,22 @@
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\bin\Debug\net8.0\CadastroClientes.Domain.deps.json
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\bin\Debug\net8.0\CadastroClientes.Domain.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\bin\Debug\net8.0\CadastroClientes.Domain.pdb
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.AssemblyInfo.cs
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\refint\CadastroClientes.Domain.dll
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.pdb
+C:\Users\enzov\OneDrive\Documents\Cadastro de Clientes CRUD\CadastroClientes.Domain\obj\Debug\net8.0\ref\CadastroClientes.Domain.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\bin\Debug\net8.0\CadastroClientes.Domain.deps.json
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\bin\Debug\net8.0\CadastroClientes.Domain.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\bin\Debug\net8.0\CadastroClientes.Domain.pdb
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\refint\CadastroClientes.Domain.dll
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\CadastroClientes.Domain.pdb
+C:\Users\rodri\OneDrive\Documentos\CadastroCliente-master\CadastroClientes.Domain\obj\Debug\net8.0\ref\CadastroClientes.Domain.dll
